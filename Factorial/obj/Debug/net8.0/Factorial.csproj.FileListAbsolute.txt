@@ -12,3 +12,18 @@
 /home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Factorial/obj/Debug/net8.0/Factorial.pdb
 /home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Factorial/obj/Debug/net8.0/Factorial.genruntimeconfig.cache
 /home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Factorial/obj/Debug/net8.0/ref/Factorial.dll
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/bin/Debug/net8.0/Factorial
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/bin/Debug/net8.0/Factorial.deps.json
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/bin/Debug/net8.0/Factorial.runtimeconfig.json
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/bin/Debug/net8.0/Factorial.dll
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/bin/Debug/net8.0/Factorial.pdb
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfoInputs.cache
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfo.cs
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.csproj.CoreCompileInputs.cache
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.sourcelink.json
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.dll
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/refint/Factorial.dll
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.pdb
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/Factorial.genruntimeconfig.cache
+/home/julian/Documents/Learning/C#/Learning C#/Factorial/obj/Debug/net8.0/ref/Factorial.dll
