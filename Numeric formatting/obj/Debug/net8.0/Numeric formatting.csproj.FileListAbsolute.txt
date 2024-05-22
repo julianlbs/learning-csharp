@@ -1,0 +1,14 @@
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/bin/Debug/net8.0/Numeric formatting
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/bin/Debug/net8.0/Numeric formatting.deps.json
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/bin/Debug/net8.0/Numeric formatting.runtimeconfig.json
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/bin/Debug/net8.0/Numeric formatting.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/bin/Debug/net8.0/Numeric formatting.pdb
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.AssemblyInfoInputs.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.AssemblyInfo.cs
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.csproj.CoreCompileInputs.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/refint/Numeric formatting.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.pdb
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/Numeric formatting.genruntimeconfig.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Numeric formatting/obj/Debug/net8.0/ref/Numeric formatting.dll

@@ -1,0 +1,14 @@
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/bin/Debug/net8.0/Odd Even
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/bin/Debug/net8.0/Odd Even.deps.json
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/bin/Debug/net8.0/Odd Even.runtimeconfig.json
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/bin/Debug/net8.0/Odd Even.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/bin/Debug/net8.0/Odd Even.pdb
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.GeneratedMSBuildEditorConfig.editorconfig
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.AssemblyInfoInputs.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.AssemblyInfo.cs
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.csproj.CoreCompileInputs.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/refint/Odd Even.dll
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.pdb
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/Odd Even.genruntimeconfig.cache
+/home/julian/Documents/Learning/C#/Learn C# Programming – Full Course with Mini-Projects/Odd Even/obj/Debug/net8.0/ref/Odd Even.dll
