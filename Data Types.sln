@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{D6F81772-8D75-4532-9601-10F7FB86D729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordChecker", "PasswordChecker\PasswordChecker.csproj", "{51A6C198-E02D-4E1B-AEC8-81326030F914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{D6F81772-8D75-4532-9601-10F7FB86D729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F81772-8D75-4532-9601-10F7FB86D729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F81772-8D75-4532-9601-10F7FB86D729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
