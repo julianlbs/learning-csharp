@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordChecker", "PasswordChecker\PasswordChecker.csproj", "{51A6C198-E02D-4E1B-AEC8-81326030F914}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{3C4FC985-BE6A-4903-A605-6FA3F764614B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A6C198-E02D-4E1B-AEC8-81326030F914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4FC985-BE6A-4903-A605-6FA3F764614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4FC985-BE6A-4903-A605-6FA3F764614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4FC985-BE6A-4903-A605-6FA3F764614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4FC985-BE6A-4903-A605-6FA3F764614B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
