@@ -55,3 +55,20 @@ List<int> listNumbers = [];
 listNumbers.Add(5);
 listNumbers.Add(8);
 listNumbers.Add(3);
+
+void ArrayOfMultiples()
+{
+  int qty = 7;
+  int length = 5;
+  int[] result = new int[length];
+  int counter = 0;
+
+  for (int i = 1; i <= result.Length; i++, counter++)
+  {
+    result[counter] = qty * i;
+  }
+
+  foreach (int num in result) Console.Write($"{num} ");
+}
+
+ArrayOfMultiples();
