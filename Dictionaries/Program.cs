@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-Dictionary<int, string> names = new Dictionary<int, string>
+﻿Dictionary<int, string> names = new Dictionary<int, string>
 {
   { 1, "Aba"  },
   { 2, "Test" },
