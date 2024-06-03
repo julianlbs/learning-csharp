@@ -1,4 +1,4 @@
-﻿Dictionary<int, string> names = new Dictionary<int, string>
+﻿Dictionary<int, string> names = new()
 {
   { 1, "Aba"  },
   { 2, "Test" },
@@ -16,7 +16,7 @@ foreach (KeyValuePair<int, string> item in names)
   Console.WriteLine($"id: {item.Key} | name: {item.Value}");
 }
 
-Dictionary<string, string> teachers = new Dictionary<string, string>
+Dictionary<string, string> teachers = new()
 {
   { "Math", "Aba"},
   { "Science", "Test" },
