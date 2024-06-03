@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{2FA941E1-8B12-4AE8-82F3-6E1E6F5B38DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{2FA941E1-8B12-4AE8-82F3-6E1E6F5B38DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA941E1-8B12-4AE8-82F3-6E1E6F5B38DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA941E1-8B12-4AE8-82F3-6E1E6F5B38DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
