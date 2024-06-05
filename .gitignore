@@ -57,4 +57,6 @@ $RECYCLE.BIN/
 *.snt
 *.nt
 
+*.db
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
