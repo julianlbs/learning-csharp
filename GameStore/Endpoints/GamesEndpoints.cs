@@ -33,7 +33,8 @@ public static class GamesEndpoints
   // Extension method to map endpoints
   public static RouteGroupBuilder MapGamesEndpoints(this WebApplication app)
   {
-    var group = app.MapGroup("/games");
+    var group = app.MapGroup("/games")
+                  .WithParameterValidation();
 
     group.MapGet("/", () => games);
 
