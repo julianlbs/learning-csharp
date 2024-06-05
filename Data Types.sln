@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTryParse", "CustomTryParse\CustomTryParse.csproj", "{4AAD3068-81D2-4C63-A57F-F8E9EAB1433C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{594BA529-E35C-4F9D-B258-BA34D8E6ABFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAD3068-81D2-4C63-A57F-F8E9EAB1433C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAD3068-81D2-4C63-A57F-F8E9EAB1433C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAD3068-81D2-4C63-A57F-F8E9EAB1433C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAD3068-81D2-4C63-A57F-F8E9EAB1433C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
