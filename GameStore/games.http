@@ -2,7 +2,7 @@ GET http://localhost:5032/games
 
 ###
 
-GET http://localhost:5032/games/15
+GET http://localhost:5032/games/1
 
 ###
 
