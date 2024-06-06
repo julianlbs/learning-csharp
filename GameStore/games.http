@@ -11,7 +11,7 @@ Content-Type: application/json
 
 {
   "name": "Final Fantasy XIV",
-  "genreId": 2,
+  "genreId": 1,
   "price": 59.99,
   "releaseDate": "2010-09-30"
 }
